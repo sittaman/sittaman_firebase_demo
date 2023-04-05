@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "644093233882",
+    "project_id": "sittaman-firebase-demo",
+    "storage_bucket": "sittaman-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644093233882:android:dafacff02666d2586af3e3",
+        "android_client_info": {
+          "package_name": "com.example.sittaman_firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644093233882-dfa0q95hr5h621obium0t1539794rsqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvEnFDbbU0BX8kV5tlCoFPsTFhkApH0fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644093233882-dfa0q95hr5h621obium0t1539794rsqm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644093233882-m5clgqrdrre7iev0628vd7216q1fdfib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sittamanFirebaseDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
