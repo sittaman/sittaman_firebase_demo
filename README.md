@@ -1,3 +1,3 @@
 # sittaman_firebase_demo
 
-A simple Firebase crud demo
+A simple Firebase crud demo. Android only.
